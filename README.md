@@ -1,0 +1,1 @@
+Try Bracket Pair Colorizer in Eclipse Che
