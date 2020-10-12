@@ -1,1 +1,1 @@
-Try Bracket Pair Colorizer in Eclipse Che
+Try RSP, Server Connector, and Community Server Connector in Eclipse Che
