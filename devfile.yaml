@@ -15,7 +15,13 @@ components:
     id: redhat/java11/latest
   -
     type: chePlugin
-    reference: "https://gist.github.com/benoitf/85c60c8c439177ac50141d527729b9d9/raw/plugin.yaml"
+    reference: "https://raw.githubusercontent.com/robstryker/testRSPinCheAndTheia/master/rspui/plugin.yaml"
+  -
+    type: chePlugin
+    reference: "https://raw.githubusercontent.com/robstryker/testRSPinCheAndTheia/master/serverconnector/plugin.yaml"
+  -
+    type: chePlugin
+    reference: "https://raw.githubusercontent.com/robstryker/testRSPinCheAndTheia/master/communityserverconnector/plugin.yaml"
   -
     type: dockerimage
     alias: maven

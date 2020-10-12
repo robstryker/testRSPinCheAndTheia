@@ -1,16 +1,16 @@
 apiVersion: v2
-publisher: CoenraadS
-name: bracket-pair-colorizer
+publisher: Red Hat Developer
+name: Server Connector
 version: 1.0.61
 type: VS Code extension
-displayName: Bracket Pair Colorizer
-title: Bracket Pair Colorizer
-description: Bracket Pair Colorizer
+displayName:Server Connector
+title: Server Connector
+description: Server Connector
 icon: https://raw.githubusercontent.com/redhat-developer/codeready-workspaces/master/dependencies/che-plugin-registry/resources/images/default.svg?sanitize=true
-repository: https://github.com/CoenraadS/BracketPair
-category: Language
+repository: https://github.com/redhat-developer/vscode-server-connector/
+category: Other
 firstPublicationDate: '2020-07-30'
 spec:
   extensions:
-  - "https://gist.github.com/benoitf/85c60c8c439177ac50141d527729b9d9/raw/CoenraadS.bracket-pair-colorizer-1.0.61.vsix"
+  - "https://github.com/robstryker/testRSPinCheAndTheia/raw/master/serverconnector/redhat.vscode-server-connector-0.23.5.vsix"
 latestUpdateDate: "2020-07-30"
