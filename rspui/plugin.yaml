@@ -1,6 +1,6 @@
 apiVersion: v2
 publisher: Red Hat Developer
-name: RSPUI
+name: RSP-UI
 version: 1.0.61
 type: VS Code extension
 displayName: Runtime Server Protocol UI

@@ -1,6 +1,6 @@
 apiVersion: v2
 publisher: Red Hat Developer
-name: Server Connector
+name: Server-Connector
 version: 1.0.61
 type: VS Code extension
 displayName: Server Connector
