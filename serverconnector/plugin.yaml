@@ -3,7 +3,7 @@ publisher: Red Hat Developer
 name: Server Connector
 version: 1.0.61
 type: VS Code extension
-displayName:Server Connector
+displayName: Server Connector
 title: Server Connector
 description: Server Connector
 icon: https://raw.githubusercontent.com/redhat-developer/codeready-workspaces/master/dependencies/che-plugin-registry/resources/images/default.svg?sanitize=true
