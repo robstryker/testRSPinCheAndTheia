@@ -15,12 +15,15 @@ components:
     id: redhat/java11/latest
   -
     type: chePlugin
+    alias: rspui
     reference: "https://raw.githubusercontent.com/robstryker/testRSPinCheAndTheia/master/rspui/plugin.yaml"
   -
     type: chePlugin
+    alias: server connector
     reference: "https://raw.githubusercontent.com/robstryker/testRSPinCheAndTheia/master/serverconnector/plugin.yaml"
   -
     type: chePlugin
+    alias: community server connector
     reference: "https://raw.githubusercontent.com/robstryker/testRSPinCheAndTheia/master/communityserverconnector/plugin.yaml"
   -
     type: dockerimage
