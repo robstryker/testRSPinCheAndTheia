@@ -1,6 +1,6 @@
 apiVersion: v2
 publisher: Red Hat Developer
-name: Community Server Connectors
+name: Community-Server-Connectors
 version: 1.0.61
 type: VS Code extension
 displayName: Community Server Connectors
